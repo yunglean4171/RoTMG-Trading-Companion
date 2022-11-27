@@ -35,7 +35,7 @@ Are you tired of trading in the traditional way? With this discord bot trading i
 ![/listtos](https://i.imgur.com/WQJnx4l.png)
 
 ## Auto channel clearing 
-To avoid spam, every full hour bot checks for offers that is past 24 hours. If trade offer has been posted more than 24 hours past from check it gets deleted.
+To avoid spam every full hour bot checks for offers that is past 24 hours. If trade offer has been posted more than 24 hours past from check it gets deleted.
 
 # Contributing
 If you have some ideas that you want to suggest please make a [pull requests](https://github.com/yunglean4171/RoTMG-Trading-Companion/pulls) and if you found some bugs please make an [issue](https://github.com/yunglean4171/RoTMG-Trading-Companion/issues). Every contribution will be appreciated.
