@@ -1,0 +1,23 @@
+{
+	"token": "",
+	"clientId": "",
+	"guildId": "",
+
+	"apiurl": "http://localhost:60",
+
+	"sortbycategories": true,
+
+	"tradeoffers": "",
+
+	"weapons": "",
+	"armors": "",
+	"abillities": "",
+	"rings": "",
+	"misc": "",
+	"peteggs": "",
+	"feedpoweritems": "",
+	"forgeitems": "",
+	"skins": "",
+	"potions": "",
+	"consumables": ""
+}
