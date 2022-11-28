@@ -9,7 +9,8 @@ Are you tired of trading in the traditional way? With this discord bot trading i
 * [body-parser](https://www.npmjs.com/package/body-parser)
 
 ## Configuration:
- 1) Download [node.js](https://nodejs.org/en/)
+ 0) Download [node.js](https://nodejs.org/en/)
+ 1) Run: ```npm install```
  2) Import rotmgtb.sql file to your database
  3) Go to api.js file in api directory and change mysql login credentials
  4) Go to config.json and input all your bot data
